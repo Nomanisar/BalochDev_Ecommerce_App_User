@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "245135229856",
+    "project_id": "balochdev-shop",
+    "storage_bucket": "balochdev-shop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245135229856:android:af61d960a546e0ea1b5ac5",
+        "android_client_info": {
+          "package_name": "com.example.balochdev_shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "245135229856-2e91fahf8ndvfdd8e8lkl536ghg85v9k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcUXFcs8h_UPnWWTxw04COGM0YZG2W6_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "245135229856-2e91fahf8ndvfdd8e8lkl536ghg85v9k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
